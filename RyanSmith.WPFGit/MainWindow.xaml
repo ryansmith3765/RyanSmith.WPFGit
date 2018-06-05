@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RyanSmith.WPFGit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Main Window" Height="350" Width="525">
     <Grid>
-        <Button Name="Test_btn" Width="150" Height="25"></Button>
+        <Button Name="Test_btn" Width="150" Height="25" Content="Awesome!"></Button>
     </Grid>
 </Window>

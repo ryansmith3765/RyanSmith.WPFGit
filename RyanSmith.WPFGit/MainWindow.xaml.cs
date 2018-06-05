@@ -18,6 +18,8 @@ namespace RyanSmith.WPFGit
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// Added extra comments here
+    /// 
     public partial class MainWindow : Window
     {
         public MainWindow()
